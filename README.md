@@ -2,6 +2,9 @@
 Yılan şeklinde hareket eden, toprakları tek tek kontrol eden ROS2 sulama robotu simülasyonu.
 
 Proje ortamının kurulumu için Büşra, Davut ve Fatih tarafından hazırlanmış bir <a href="https://www.notion.so/Windows-zerinde-WSL-de-ROS-2-kurulumu-ve-kullan-m-3173a84cb5d180bc84e8fb37c6d04953" target="_blank"><b>Türkçe rehber.</b></a>
+<br>
+2 boyutlu simülasyon için pygame kullanılır iken, 3 boyutlu simülasyon içinse RViz2 kullanılmaktadır.
+<br>
 
 <img width="378" height="406" alt="farm_2d" src="https://github.com/user-attachments/assets/31f71919-7ded-4711-83bb-3567c1e96253" />
 
